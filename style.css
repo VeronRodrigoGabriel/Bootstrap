@@ -8,3 +8,16 @@ body{
 .container-fluid{
     background-color: #0007;
 }
+.WH{
+    width: 95vw;
+    height: 100vh;
+}
+main{
+    width: 95vw;
+    height: 100vh;
+}
+
+.content {
+    width: 50vw;
+    background-color: #ffffff77;
+}
