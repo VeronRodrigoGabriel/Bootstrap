@@ -1,10 +1,9 @@
 body{
-
+    background-color: gray;
 }
 .container-fluid{
     background-color: #0007;
 }
 main{
-    width: 95vw;
-    height: 100vh;
-}
+    width: 100vw;
+    height: 88vh;
