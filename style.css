@@ -1,6 +1,10 @@
-.fondo{
+body{
     background-image: url(lenguajes.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    height: 117vh;
+}
+.container-fluid{
+    background-color: #0007;
 }
