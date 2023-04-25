@@ -6,7 +6,7 @@ body{
 }
 main{
     width: 100vw;
-    height: 88vh;
+    height: 80vw;
 }
 .html{
     width: 300px;
@@ -20,4 +20,10 @@ main{
 }
 .img3{
     width: 243px;
+}
+.img4{
+    width: 220px;
+}
+.img5{
+    width: 166px;
 }
